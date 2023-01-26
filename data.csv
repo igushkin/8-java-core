@@ -1,0 +1,7 @@
+id,type,name,status,description
+1,TASK,TaskName,NEW,TaskDescription,+999999999-12-31T23:59:59.999999999,PT0S
+2,EPIC,EpicName,NEW,EpicDescription,+999999999-12-31T23:59:59.999999999,PT0S
+3,SUBTASK,SubtaskName,NEW,SubtaskDescription,+999999999-12-31T23:59:59.999999999,PT0S,2
+4,SUBTASK,SubtaskName,NEW,SubtaskDescription,+999999999-12-31T23:59:59.999999999,PT0S,2
+
+4,3,2,1
