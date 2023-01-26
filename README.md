@@ -1,4 +1,4 @@
-# 7-java-core
+# 8-java-core
 
 This is part of the Java Developer course from Yandex. Module - standard Java library and its features.
 
